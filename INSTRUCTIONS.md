@@ -1,8 +1,7 @@
 # Enter your information here
 ```
-Full name: ___ ___
-Student ID: ___ ___
-```
+Full name: Meirzhan Anarbekuly
+Student ID: 220 103 307
 
 # Practice activity 4
 Practice Activity 4 for Feb 25, 2023
