@@ -2,8 +2,8 @@ public class Main {
     public static void main(String[] args) {
         MovablePoint point = new MovablePoint(0, 0, 1, 1);
         for (int i = 0; i < 10; i++) {
-            point.moveRight();
-            point.moveDown();
+           point.moveRight();
+           point.moveDown();
         }
         System.out.println(point);
 
