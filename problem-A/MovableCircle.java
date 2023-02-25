@@ -29,7 +29,7 @@ public class MovableCircle implements Movable {
 
     @Override
     public String toString() {
-        return String.format("%s, radius=%d", center.toString(), radius);
+        return String.format("%s, radius=%d", center.toString(),  radius);
     }
 
 }
